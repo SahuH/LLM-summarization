@@ -16,7 +16,7 @@ The workflow of the project is as follows:
 
  * Here, given a medical report, the fine-tuned *distilbert-ner* model is used to predict the medical entities in the report
 * *distilbert-ner* model also outputs contextual embeddings for the input medical report, which would be used for relevant information retrieval
-* Given a query by the user, I have used FAISS to retrieve most relevant sentences in the medical report
+* Given a query by the user, I have used [FAISS](https://github.com/facebookresearch/faiss) to retrieve most relevant sentences in the medical report
 * As a final step, summary of the retrieved sentences is generated using pre-trained T5 (*t5-base*) model
 * Step 2 integrates all the tasks of the project. Run `run.ipynb` to execute Step 2
 
