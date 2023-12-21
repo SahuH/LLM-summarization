@@ -28,7 +28,7 @@ def semantic_search(input_text, input_question):
     # Create a dataset from the dictionary
     sentences_dataset = Dataset.from_dict(data_dict)
 
-    ner_model_name = "SahuH/distilbert-maccrobat"
+    ner_model_name = "SahuH/distilbert-ner"
     ner_tokenizer = AutoTokenizer.from_pretrained(ner_model_name)
     ner_model = AutoModel.from_pretrained(ner_model_name)
 
