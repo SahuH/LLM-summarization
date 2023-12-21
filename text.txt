@@ -1,5 +1,4 @@
-The patient was a 34-yr-old man who presented with complaints of fever and a chronic cough.
-He was a smoker and had a history of pulmonary tuberculosis that had been treated and cured.
+The patient was a 34-yr-old man who presented with complaints of fever and a chronic cough. He was a smoker and had a history of pulmonary tuberculosis that had been treated and cured.
 A computed tomographic (CT) scan revealed multiple tiny nodules in both lungs.
 A thoracoscopic lung biopsy was taken from the right upper lobe.
 The microscopic examination revealed a typical LCH.
@@ -20,3 +19,6 @@ A few foci of typical LCH remained around the main tumor mass.
 Immunohistochemically, the tumor cells were strongly positive for S-100 protein (Fig.5) and vimentin; they were also positive for CD68 (Dako N1577, Clone KPI), and focally positive for CD1a (Fig.6), and they were negative for cytokeratin, epithelial membrane antigen, CD3, CD20 and HMB45.
 The ultrastructural analysis failed to demonstrate any Birbeck granules in the cytoplasm of the tumor cells.
 Now, at five months after lobectomy, the patient is doing well with no significant change in the radiologic findings.
+
+
+# input_question = "Which disease was detected in patient through biopsy?"
